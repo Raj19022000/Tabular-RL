@@ -1,2 +1,2 @@
 # Tabular-RL
-This repository is for applying reinforcement learning algorithms to tabular environment settings
+This repository is for reinforcement learning algorithms applied to tabular environment settings
