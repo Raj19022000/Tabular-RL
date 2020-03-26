@@ -1,6 +1,6 @@
 # Tabular-RL
  This repository is for reinforcement learning algorithms applied to tabular environment settings.
- Comment or uncomment in the frozen_lake(solution).py file to opt between a deterministic and a stochastic environment.
+ 
  
 # Description of the lake environment
 Winter is here. You and your friends were tossing around a frisbee at the park
@@ -20,4 +20,6 @@ F : frozen surface, safe
 H : hole, fall to your doom
 G : goal, where the frisbee is located
 The episode ends when you reach the goal or fall in a hole.
-You receive a reward of 1 if you reach the goal, and zero other
+You receive a reward of 1 if you reach the goal, and zero other.
+
+Comment or uncomment in the frozen_lake(solution).py file to opt between a deterministic and a stochastic environment.
