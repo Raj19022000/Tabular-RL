@@ -1,7 +1,12 @@
 # Tabular-RL
  This repository is for reinforcement learning algorithms applied to tabular environment settings.
  
- 
+### lake environment:
+
+###### Algorithms implemented for this setting
+- [x] Policy evaluation and iteration
+- [x] Value iteration
+
 # Description of the lake environment
 Winter is here. You and your friends were tossing around a frisbee at the park
 when you made a wild throw that left the frisbee out in the middle of the lake.
@@ -23,3 +28,7 @@ The episode ends when you reach the goal or fall in a hole.
 You receive a reward of 1 if you reach the goal, and zero other.
 
 Comment or uncomment in the frozen_lake(solution).py file to opt between a deterministic and a stochastic environment.
+
+### Results
+
+![](https://media.giphy.com/media/ZXCEtri0Xo77dpsc25/giphy.gif)
